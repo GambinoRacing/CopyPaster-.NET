@@ -1,0 +1,9 @@
+C:\Users\admin\Desktop\Copy Writer\Copy Writer\bin\Debug\Copy Writer.exe.config
+C:\Users\admin\Desktop\Copy Writer\Copy Writer\bin\Debug\Copy Writer.exe
+C:\Users\admin\Desktop\Copy Writer\Copy Writer\bin\Debug\Copy Writer.pdb
+C:\Users\admin\Desktop\Copy Writer\Copy Writer\obj\Debug\Copy Writer.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Copy Writer\Copy Writer\obj\Debug\Copy Writer.exe
+C:\Users\admin\Desktop\Copy Writer\Copy Writer\obj\Debug\Copy Writer.pdb
+C:\Users\admin\Desktop\ALL IN\Copy Writer\Copy Writer\bin\Debug\Copy Writer.exe.config
+C:\Users\admin\Desktop\ALL IN\Copy Writer\Copy Writer\obj\Debug\Copy Writer.exe
+C:\Users\admin\Desktop\ALL IN\Copy Writer\Copy Writer\obj\Debug\Copy Writer.pdb
